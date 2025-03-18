@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "ad9a5db7fbd94e39",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ef3a2f0e389174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62cbd3dace64f032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab Notebook/Daily Lab Notes/Week 46/03-12-2025-Wed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-12-2025-Wed"
+            }
+          },
+          {
+            "id": "c40222781741e662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab Notebook/Daily Lab Notes/03-18-2025-Tue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-18-2025-Tue"
+            }
+          },
+          {
+            "id": "c5eb194b54f920a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab Notebook/important numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "important numbers"
+            }
+          },
+          {
+            "id": "088528578e9a2d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bonsai + SLEAP/SLEAP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SLEAP"
+            }
+          },
+          {
+            "id": "34b5dbdfed7e377c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ETC/humidity troubleshooting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "humidity troubleshooting"
+            }
+          },
+          {
+            "id": "1d188b3403593118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly Meetings/post 3.3.2025 notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "post 3.3.2025 notes"
+            }
+          },
+          {
+            "id": "5007601410051178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly Meetings/post 2.24.2025 notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "post 2.24.2025 notes"
+            }
+          },
+          {
+            "id": "b3cdd3a67c30b0b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hotcell/Notes on Hotcell Documents.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes on Hotcell Documents"
+            }
+          },
+          {
+            "id": "1fd0a083268dff34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bonsai + SLEAP/NEW hotcell notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NEW hotcell notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d78c779411c8466d",
+    "type": "split",
+    "children": [
+      {
+        "id": "792e77b84e832beb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b87277e8165f05dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7b36c8b2c0a1dfe5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a204638c42e1c4f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "478c75dd01f0b2e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "27d51f1816d85039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c760a30308271c66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lab Notebook/Daily Lab Notes/10-17-2024-Thu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 10-17-2024-Thu"
+            }
+          },
+          {
+            "id": "befcfcf10e844968",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lab Notebook/Daily Lab Notes/10-17-2024-Thu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 10-17-2024-Thu"
+            }
+          },
+          {
+            "id": "5eec508e7f54ebeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "882fae7c5eda9cfb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lab Notebook/Daily Lab Notes/10-17-2024-Thu.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10-17-2024-Thu"
+            }
+          },
+          {
+            "id": "358ad11403580a5d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c40222781741e662",
+  "lastOpenFiles": [
+    "Lab Notebook/Daily Lab Notes/03-17-2025-Mon.md",
+    "Lab Notebook/important numbers.md",
+    "Lab Notebook/Daily Lab Notes/03-18-2025-Tue.md",
+    "ETC/humidity troubleshooting.md",
+    "Bonsai + SLEAP/NEW hotcell notes.md",
+    "Hotcell/Notes on Hotcell Documents.md",
+    "Hotcell/hotcell notes.md",
+    "Weekly Meetings/post 2.24.2025 notes.md",
+    "Lab Notebook/Daily Lab Notes/Week 46/03-12-2025-Wed.md",
+    "Lab Notebook/Daily Lab Notes/Week 46/03-10-2025-Mon.md",
+    "Lab Notebook/Daily Lab Notes/Week 46/03-13-2025-Thu.md",
+    "Lab Notebook/Daily Lab Notes/Week 46",
+    "Lab Notebook/Daily Lab Notes/Week 46/03-14-2025-Fri.md",
+    "Lab Notebook/Daily Lab Notes/Week 46/03-11-2025-Tue.md",
+    "Lab Notebook/Scheduled Lab Tasks.md",
+    "Weekly Meetings/post 3.10.2025 notes.md",
+    "Lab Notebook/Daily Lab Notes/Week 45/03-07-2025-Fri.md",
+    "Bonsai + SLEAP/SLEAP.md",
+    "Lab Notebook/Daily Lab Notes/Week 45/03-03-2025-Mon.md",
+    "Lab Notebook/Daily Lab Notes/Week 45",
+    "ETC/BDSC Order 1.9.md",
+    "Lab Notebook/Daily Lab Notes/Week 45/03-06-2025-Thu.md",
+    "Lab Notebook/Daily Lab Notes/Week 45/03-05-2025-Wed.md",
+    "Lab Notebook/Daily Lab Notes/Week 45/03-04-2025-Tue.md",
+    "Lab Notebook/Daily Lab Notes/02-2025/Week 44/2-28-2025-Fri.md",
+    "Weekly Meetings/post 3.3.2025 notes.md",
+    "Lab Notebook/Daily Lab Notes/02-2025/Week 44/2-24-2025-Mon.md",
+    "03-03-2025",
+    "Lab Notebook/Daily Lab Notes/02-2025",
+    "Lab Notebook/Daily Lab Notes/02-2025/Week 44",
+    "Lab Notebook/Daily Lab Notes/02-2025/Week 44/2-27-2025-Thu.md",
+    "Lab Notebook/Daily Lab Notes/02-2025/Week 43",
+    "Lab Notebook/Daily Lab Notes/02-2025/Week 42",
+    "Bonsai + SLEAP",
+    "Lab Notebook/Daily Lab Notes/02-2025/Week 41",
+    "Weekly Meetings/2024"
+  ]
+}
